@@ -1,4 +1,3 @@
-alert("bora jogar!!")
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
